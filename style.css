@@ -2,3 +2,4 @@ header{background-color: rgb(6, 26, 44);}
 body{background-color: rgb(99, 65, 192);}
 h1{color: coral;}
 footer{background-color: blueviolet;}
+img{display: flex; flex-direction: column; justify-content: flex-start;}
