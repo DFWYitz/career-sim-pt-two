@@ -2,5 +2,5 @@ header{background-color: rgb(148, 190, 226);}
 body{background-color: rgb(215, 70, 62);}
 h1{color: rgb(35, 3, 40);}
 footer{background-color: blueviolet;}
-img{max-width: 250px; max-height: 350px; flex; flex-direction: column; justify-content: flex-start;}
+img{max-width: 250px; max-height: 350px; flex-direction: column; justify-content: flex-start;}
 h3{background-color: burlywood;}
